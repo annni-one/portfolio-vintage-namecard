@@ -1,0 +1,35 @@
+@font-face {
+  font-display: swap;
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://sf3-scmcdn-cn.feishucdn.com/obj/feishu-static/lark-miaoda-fonts/fonts/cormorant-garamond/922ef040cc7e.ttf");
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Italianno';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://sf3-scmcdn-cn.feishucdn.com/obj/feishu-static/lark-miaoda-fonts/fonts/italianno/68d61a38c186.ttf");
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://sf3-scmcdn-cn.feishucdn.com/obj/feishu-static/lark-miaoda-fonts/fonts/cinzel/300ac370b8ab.ttf");
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://sf3-scmcdn-cn.feishucdn.com/obj/feishu-static/lark-miaoda-fonts/fonts/noto-serif-sc/ff5aa60a0a8b.ttf");
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Noto Sans SC';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://sf3-scmcdn-cn.feishucdn.com/obj/feishu-static/lark-miaoda-fonts/fonts/noto-sans-sc/642a27dbf199.ttf");
+}
